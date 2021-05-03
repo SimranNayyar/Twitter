@@ -15,7 +15,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![](https://i.imgur.com/5GTuWIt.gif)
+
+
 
 # Twitter - Part I
 
